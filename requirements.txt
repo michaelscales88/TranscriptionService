@@ -1,0 +1,8 @@
+appdirs==1.4.0
+configobj==5.0.6
+packaging==16.8
+pyexcel==0.4.3
+pyexcel-io==0.3.2
+pyparsing==2.1.10
+six==1.10.0
+texttable==0.8.7

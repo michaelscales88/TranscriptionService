@@ -5,7 +5,6 @@ from pyexcel import get_book
 from traceback import format_exc
 from datetime import date, datetime
 
-
 from TranscriptionService.src.AppSettings import AppSettings
 
 
