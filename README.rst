@@ -11,13 +11,15 @@ Transcription Service
 
 File Structure
 **********************************************************************
-+-- bin
-¦   +-- Ex
-+-- src
-|   +-- Ex
-+-- Ex
-¦   +-- Ex1
-¦       +-- Ex2
-+-- settings
-
+| ./
+| +-- bin
+| |  +-- scribe.py
+| +-- src
+| |  +-- AppSettings.py
+| |  +-- ImapConnection.py
+| +-- settings
+| |  +-- Ex1
+| |      +-- Ex2
+| License
+| README
 ......................................................................
